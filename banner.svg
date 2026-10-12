@@ -82,7 +82,7 @@
 
   <!-- 藏不住的粉 -->
   <text x="220" y="245" font-family="Inter, 'PingFang SC', sans-serif"
-        font-size="12.5" fill="url(#warm)">冰山之下，请勿靠近（除非你很想）</text>
+        font-size="12.5" fill="url(#warm)">冰山之下</text>
 
   <!-- 右下角签名 -->
   <text x="960" y="276" text-anchor="end" font-family="Consolas, monospace"
