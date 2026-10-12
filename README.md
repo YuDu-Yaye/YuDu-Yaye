@@ -45,19 +45,6 @@
 ![CAD](https://img.shields.io/badge/CAD_制图-1e1440?style=flat-square&logo=autodesk&logoColor=b18cff)
 ![剪辑](https://img.shields.io/badge/视频剪辑-1e1440?style=flat-square&logo=adobepremierepro&logoColor=b18cff)
 
-**会用**
-
-![逆向](https://img.shields.io/badge/逆向工程-1e1440?style=flat-square&logoColor=ffc46b)
-![反编译](https://img.shields.io/badge/反编译_/_反汇编-1e1440?style=flat-square&logoColor=ffc46b)
-![调试](https://img.shields.io/badge/动态调试-1e1440?style=flat-square&logoColor=ffc46b)
-![协议](https://img.shields.io/badge/网络协议分析-1e1440?style=flat-square&logoColor=ffc46b)
-![抓包](https://img.shields.io/badge/抓包与还原-1e1440?style=flat-square&logoColor=ffc46b)
-![TCP](https://img.shields.io/badge/TCP_/_IP-1e1440?style=flat-square&logoColor=ffc46b)
-![WS](https://img.shields.io/badge/WebSocket-1e1440?style=flat-square&logoColor=ffc46b)
-![K8s](https://img.shields.io/badge/Kubernetes-1e1440?style=flat-square&logo=kubernetes&logoColor=ffc46b)
-![ES](https://img.shields.io/badge/Elasticsearch-1e1440?style=flat-square&logo=elasticsearch&logoColor=ffc46b)
-![Shell](https://img.shields.io/badge/Shell-1e1440?style=flat-square&logo=gnubash&logoColor=ffc46b)
-
 **了解**
 
 ![Go](https://img.shields.io/badge/Go-1e1440?style=flat-square&logo=go&logoColor=7d7fa8)
