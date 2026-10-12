@@ -16,15 +16,16 @@
 
 ![Java](https://img.shields.io/badge/Java-1e1440?style=flat-square&logo=openjdk&logoColor=a9c4ff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1440?style=flat-square&logo=springboot&logoColor=a9c4ff)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-1e1440?style=flat-square&logo=spring&logoColor=a9c4ff)
-![Netty](https://img.shields.io/badge/Netty-1e1440?style=flat-square&logo=netty&logoColor=a9c4ff)
 ![MySQL](https://img.shields.io/badge/MySQL-1e1440?style=flat-square&logo=mysql&logoColor=a9c4ff)
-![Redis](https://img.shields.io/badge/Redis-1e1440?style=flat-square&logo=redis&logoColor=a9c4ff)
-![HTML](https://img.shields.io/badge/HTML_/_CSS-1e1440?style=flat-square&logo=html5&logoColor=a9c4ff)
-![JS](https://img.shields.io/badge/JavaScript-1e1440?style=flat-square&logo=javascript&logoColor=a9c4ff)
+![HTML](https://img.shields.io/badge/HTML-1e1440?style=flat-square&logo=html5&logoColor=a9c4ff)
+![CSS](https://img.shields.io/badge/CSS-1e1440?style=flat-square&logo=css3&logoColor=a9c4ff)
 
 **熟练**
 
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-1e1440?style=flat-square&logo=spring&logoColor=b18cff)
+![Netty](https://img.shields.io/badge/Netty-1e1440?style=flat-square&logo=netty&logoColor=b18cff)
+![Redis](https://img.shields.io/badge/Redis-1e1440?style=flat-square&logo=redis&logoColor=b18cff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1440?style=flat-square&logo=javascript&logoColor=b18cff)
 ![C++](https://img.shields.io/badge/C++-1e1440?style=flat-square&logo=cplusplus&logoColor=b18cff)
 ![C](https://img.shields.io/badge/C-1e1440?style=flat-square&logo=c&logoColor=b18cff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1440?style=flat-square&logo=typescript&logoColor=b18cff)
@@ -37,6 +38,7 @@
 ![Linux](https://img.shields.io/badge/Linux-1e1440?style=flat-square&logo=linux&logoColor=b18cff)
 ![Docker](https://img.shields.io/badge/Docker-1e1440?style=flat-square&logo=docker&logoColor=b18cff)
 ![Nginx](https://img.shields.io/badge/Nginx-1e1440?style=flat-square&logo=nginx&logoColor=b18cff)
+![Git](https://img.shields.io/badge/Git-1e1440?style=flat-square&logo=git&logoColor=b18cff)
 ![Python](https://img.shields.io/badge/Python-1e1440?style=flat-square&logo=python&logoColor=b18cff)
 ![AI](https://img.shields.io/badge/AI_工程-1e1440?style=flat-square&logo=openai&logoColor=b18cff)
 ![Inventor](https://img.shields.io/badge/Inventor_建模-1e1440?style=flat-square&logo=autodesk&logoColor=b18cff)
@@ -53,6 +55,7 @@
 ![TCP](https://img.shields.io/badge/TCP_/_IP-1e1440?style=flat-square&logoColor=ffc46b)
 ![WS](https://img.shields.io/badge/WebSocket-1e1440?style=flat-square&logoColor=ffc46b)
 ![K8s](https://img.shields.io/badge/Kubernetes-1e1440?style=flat-square&logo=kubernetes&logoColor=ffc46b)
+![ES](https://img.shields.io/badge/Elasticsearch-1e1440?style=flat-square&logo=elasticsearch&logoColor=ffc46b)
 ![Shell](https://img.shields.io/badge/Shell-1e1440?style=flat-square&logo=gnubash&logoColor=ffc46b)
 
 **了解**
